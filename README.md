@@ -1,5 +1,6 @@
 - 👋 Hi, I’m LGAMSUNG
 - KDMHS 20th HD
+- University Of Seoul | Department Of Chemical Engineering
   
 
 <!---
